@@ -38,3 +38,9 @@ Once you've completed all 11 modules, complete [Module 12 - Training Completion]
 
 You can ask questions or leave feedback on [UDICTI Discussions](https://github.com/udictihub/udicti-community/discussions).
 # udicti-leadership-student-training-program
+
+
+## Attribution 
+
+This program is adapted from the [Github Campus Expert Program](https://education.github.com/experts)
+
