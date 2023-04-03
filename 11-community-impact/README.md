@@ -1,4 +1,4 @@
-![Module 6 - Community impact](https://user-images.githubusercontent.com/1790822/44394800-fe1a9100-a52f-11e8-8586-cff5e595b0af.png)
+![Module 6 - Community impact](../assets/images/module-11.png)
 
 # Community impact 🥁
 

@@ -1,4 +1,4 @@
-![Module 4 - Public speaking](https://user-images.githubusercontent.com/1790822/44394790-f9ee7380-a52f-11e8-9dfa-b902b3d905eb.png)
+![Module 4 - Public speaking](../assets/images/module-4.png)
 
 # Public Speaking 📣💁🏽
 

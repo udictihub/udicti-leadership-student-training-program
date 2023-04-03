@@ -1,4 +1,4 @@
-![Module 3 - Information design](https://user-images.githubusercontent.com/1790822/44394788-f824b000-a52f-11e8-9cb2-c952b8d8be08.png)
+![Module 3 - Information design](../assets/images/module-3.png)
 
 # Information Design 👨🏿‍🏫⚡️
 

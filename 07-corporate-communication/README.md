@@ -1,4 +1,4 @@
-![Module 7 - Corporate Communication]()
+![Module 7 - Corporate Communication](../assets/images/module-7.png)
 
 # Corporate Communication 
 

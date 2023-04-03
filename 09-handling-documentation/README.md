@@ -1,4 +1,4 @@
-![Module 9 - Handling Documentation]()
+![Module 9 - Handling Documentation](../assets/images/module-9.png)
 
 # Handling Documentation 
 

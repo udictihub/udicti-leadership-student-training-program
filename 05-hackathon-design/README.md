@@ -1,4 +1,4 @@
-![Module 5 - Hackathon Design]()
+![Module 5 - Hackathon Design](../assets/images/module-5.png)
 
 # Hackathon Design 👨🏾‍💻 👩🏾‍💻
 

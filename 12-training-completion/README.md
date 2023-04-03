@@ -1,4 +1,4 @@
-![Module 7 - Submission](https://user-images.githubusercontent.com/1790822/44395130-d37d0800-a530-11e8-9213-404b16bb8c26.png)
+![Module 12 - Submission](../assets/images/module-12.png)
 
 # Finishing the training 🎉
 

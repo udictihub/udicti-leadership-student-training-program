@@ -1,4 +1,4 @@
-![Module 5 - Introduction to Git](https://user-images.githubusercontent.com/1790822/44394793-fc50cd80-a52f-11e8-83ae-8df071d56b4b.png)
+![Module 5 - Introduction to Git](../assets/images/module-10.png)
 
 # Introduction to Git 🗃
 

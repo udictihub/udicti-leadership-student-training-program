@@ -1,4 +1,4 @@
-![Module 6 - Program Design]()
+![Module 6 - Program Design](../assets/images/module-6.png)
 
 # Program Design 👨🏾‍💻 👩🏾‍💻
 

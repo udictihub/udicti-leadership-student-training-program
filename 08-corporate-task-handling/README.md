@@ -1,4 +1,4 @@
-![Module 8 - Corporate Task Handling]()
+![Module 8 - Corporate Task Handling](../assets/images/module-8.png)
 
 # Corporate Task Handling 🧵🪡
 

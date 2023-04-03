@@ -1,4 +1,4 @@
-![Module 2 - Inclusive communities](https://user-images.githubusercontent.com/1790822/44394787-f6f38300-a52f-11e8-85d2-eedf56c03785.png)
+![Module 2 - Inclusive communities](../assets/images/module-2.png)
 
 # Inclusive communities 🌏
 

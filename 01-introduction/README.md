@@ -1,4 +1,4 @@
-![Module 1 - Introduction](https://user-images.githubusercontent.com/1790822/44394784-f529bf80-a52f-11e8-9525-f0e13b694c1f.png)
+![Module 1 - Introduction](../assets/images/module-1.png)
 
 # Introduction 👋
 
