@@ -1,4 +1,12 @@
-# Community Leader Skills 🚩
+# udicti-leadership-student-training-program
+
+Is a program designed to help students develop their leadership skills. The program typically provides students with training in a variety of areas, including communication, team building, problem-solving, decision-making, and goal setting. The goal of the program is to help students become effective leaders who can make a positive impact on their communities.
+
+Participants in the Udicti leadership-student-training program is required to complete assignments. They will also have opportunities to network with other students and professionals in their field.
+
+This leadership-student-training program is curated to provide a valuable experience to students  in developing their leadership skills and preparing themselves for leadership roles in their communities and careers.
+
+### Community Leader Skills 🚩
 
 This repository contains training modules that makeup part of the udicti-leadership-training-program. Each module is a skill that could be useful to lead and impact your community on campus in a very significant way. You should start with [Module 1 - Introduction](/01-introduction).
 
