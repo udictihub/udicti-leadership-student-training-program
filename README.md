@@ -1,3 +1,6 @@
+
+![](assets/images/program-head-picture.png)
+
 # udicti-leadership-student-training-program
 
 Is a program designed to help students develop their leadership skills. The program typically provides students with training in a variety of areas, including communication, team building, problem-solving, decision-making, and goal setting. The goal of the program is to help students become effective leaders who can make a positive impact on their communities.
