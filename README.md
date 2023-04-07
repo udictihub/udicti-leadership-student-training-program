@@ -39,7 +39,7 @@ Once you've completed all 11 modules, complete [Module 12 - Training Completion]
 
 ## How do I get help whilst following the training?
 
-You can ask questions or leave feedback on [UDICTI Discussions](https://github.com/udictihub/udicti-community/discussions).
+You can ask questions or leave feedback on [UDICTI Discussions](https://github.com/udictihub/udicti-leadership-student-training-program/discussions/1).
 # udicti-leadership-student-training-program
 
 
