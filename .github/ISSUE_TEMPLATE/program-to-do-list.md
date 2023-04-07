@@ -7,10 +7,12 @@ assignees: genie360s
 
 ---
 
-# Welcome to UDiCTi Community.
+Hi @
+
+# Welcome to UDiCTi Community 🎉 !
 
 ## To do list
 
--[ ]Join the classroom     <https://classroom.github.com/a/2srgA6Gf>
--[ ]Introduce yourself in the discussion section  [discussion section](https://github.com/udictihub/udicti-leadership-student-training-program/discussions)
--[ ]Complete the training before 13th May 2023
+- [ ] Join the classroom     <https://classroom.github.com/a/2srgA6Gf>
+- [ ] Introduce yourself in the discussion section  [discussion section](https://github.com/udictihub/udicti-leadership-student-training-program/discussions)
+- [ ] Complete the training before 13th May 2023
