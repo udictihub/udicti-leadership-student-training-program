@@ -32,7 +32,7 @@ We want explanations for:
 
 - Navigate to the repository and select your `submission` branch.
 - Navigate to the `submissions` directory.
-- In the directory, create a new directory named `module-5`.
+- In the directory, create a new directory named `module-10`.
 - Inside `module-5`, create a file named `git-explainer.md`.
 - Fill the file with the contents of your completed exercise.
 - Commit the changes.
