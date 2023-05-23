@@ -7,7 +7,7 @@ In this exercise you will:
 - Write a Code of Conduct.
 
 # 💖 Module 2: Inclusion Analysis
-It's fair to say that many tech communities do not take steps to ensure that everyone is welcome - especially marginalized groups. This is something we make sure to see before approving people to move on to the next stage of the Campus Experts application. In the video, Bianca talks about 'Designing for the Margins', which is about taking intentional steps to make sure that everyone is included in your community. This module is *not* about general or logistical challenges - it's purely about inclusion.
+It's fair to say that many tech communities do not take steps to ensure that everyone is welcome - especially marginalized groups. This is something we make sure to see before approving people to move on to the next stage of the Udicti Students Leadership Training. In the video, Bianca talks about 'Designing for the Margins', which is about taking intentional steps to make sure that everyone is included in your community. This module is *not* about general or logistical challenges - it's purely about inclusion.
 
 <details><summary>Tips</summary>
 Here's a nice framework for making observations actionable:
@@ -23,7 +23,6 @@ Take some time to think about who **might be excluded** from your community and 
 - People with jobs 
 - People with caring responsibilities such as a child or another family member
 - Wheelchair users
-- Women, LGBTQ+ and non-binary people
 - Mature students
 
 This is far from a complete list, but enough to get started.
